@@ -1,5 +1,5 @@
 
-m = Map("cpulimit", translate("cpulimit"),translate("cpulimit  "))
+m = Map("cpulimit", translate("cpulimit"),translate("cpulimit"))
 s = m:section(TypedSection, "list", translate("Settings"))
 s.template = "cbi/tblsection"
 s.anonymous = true

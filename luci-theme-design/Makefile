@@ -6,7 +6,7 @@
 include $(TOPDIR)/rules.mk
 
 LUCI_TITLE:=Design Theme
-LUCI_DEPENDS:=
+LUCI_DEPENDS:=+luci-lib-ipkg
 
 include $(TOPDIR)/feeds/luci/luci.mk
 
