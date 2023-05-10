@@ -20,5 +20,5 @@
 	path = applications/luci-theme-argon
 	url = https://github.com/jerrykuku/luci-theme-argon.git
 [submodule "openwrt-cloudflared"]
-	path = openwrt-cloudflared
+	path = utilities/openwrt-cloudflared
 	url = https://github.com/yichya/openwrt-cloudflared.git
